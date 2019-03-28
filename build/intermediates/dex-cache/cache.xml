@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\CDS124\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="D:\Senthil\ccavenue-payment-gateway-integration-in-android-sdk-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-6.1.0_10c1d27acb73907c89197f6cf37cb5dfcf901f0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Senthil\ccavenue-payment-gateway-integration-in-android-sdk-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95f9d337f64d2641c05c4a97d1d4569fffa5a174">
+        <dex dex="D:\Senthil\ccavenue-payment-gateway-integration-in-android-sdk-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e984e9bf1347fbc110bc805ec18e9bce84304093\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CDS124\.android\build-cache\de60469aede8310630342afc6d3fbf7b0d428f07\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="D:\Senthil\ccavenue-payment-gateway-integration-in-android-sdk-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9c6b690cc327d4affcbd81071ae779d2c4edddfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Senthil\ccavenue-payment-gateway-integration-in-android-sdk-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="D:\Senthil\ccavenue-payment-gateway-integration-in-android-sdk-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e2ed62af0b47c353ae9e56db5bfae098374d9ecb\classes.dex" />
+    </item>
+
+</items>

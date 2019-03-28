@@ -1,0 +1,7 @@
+#Thu Mar 28 12:03:23 IST 2019
+base.0=D\:\\Senthil\\ccavenue-payment-gateway-integration-in-android-sdk-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e2ed62af0b47c353ae9e56db5bfae098374d9ecb
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Senthil\\ccavenue-payment-gateway-integration-in-android-sdk-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e984e9bf1347fbc110bc805ec18e9bce84304093\\classes.dex
+base.1=D\:\\Senthil\\ccavenue-payment-gateway-integration-in-android-sdk-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e984e9bf1347fbc110bc805ec18e9bce84304093
+file.0=D\:\\Senthil\\ccavenue-payment-gateway-integration-in-android-sdk-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e2ed62af0b47c353ae9e56db5bfae098374d9ecb\\classes.dex
